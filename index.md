@@ -1,5 +1,9 @@
 # Hey, there! Care for a cuppa?
-### Browse freely around here, and enjoy. Hope it helps.
+I am Anna, and I am (almost) an statistitian. If you are wondering about the name, please enjoy learning more about the [Lady Tasting Tea Experiment](https://en.wikipedia.org/wiki/Lady_tasting_tea) and how it changed research
+
+### Browse freely around here. Hope something is of help.
+
+
 
 You can use the [editor on GitHub](https://github.com/tasting-tea/tastingtea.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
