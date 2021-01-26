@@ -1,5 +1,5 @@
 # Hey, there! Care for a cuppa?
-I am Anna, and I am (almost) an statistitian. If you are wondering about the name, please enjoy learning more about the [Lady Tasting Tea Experiment](https://en.wikipedia.org/wiki/Lady_tasting_tea) and how it changed research
+I am Anna, and I am (almost) an statistitian. If you are wondering about the name, please enjoy learning more about the [Lady Tasting Tea Experiment](https://en.wikipedia.org/wiki/Lady_tasting_tea) and its impacts on [research](https://www.kdnuggets.com/2019/05/lady-tasting-tea-science.html). Have you ever tried to understand _p-value_? So, there you have it. 
 
 ### Browse freely around here. Hope something is of help.
 
